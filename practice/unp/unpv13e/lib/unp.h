@@ -515,5 +515,3 @@ void	 err_ret(const char *, ...);
 void	 err_sys(const char *, ...);
 
 #endif	/* __unp_h */
-
-#define MAXLINE		2048	/* max text line length */
